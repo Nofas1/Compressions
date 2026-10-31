@@ -1,0 +1,12 @@
+/build/
+/build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/Testing/
+googletest/
+*.exe
+*.obj
+*.o
+/log.txt
